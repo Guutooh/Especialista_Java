@@ -53,13 +53,3 @@ Consolidar e aprofundar conhecimentos na stack Java, desde a linguagem base até
 - Deploy em ambiente de nuvem (e.g., Heroku)
 - Monitoramento e logging com Actuator
 
-## Diferenciais
-
-- Estrutura modular para facilitar o entendimento gradual dos conceitos
-- Práticas modernas alinhadas com o mercado
-- Foco em segurança, testes e boas práticas de código
-- Projetos práticos que simulam cenários reais de desenvolvimento
-
----
-
-Este repositório está em constante evolução e representa meu compromisso com a excelência no desenvolvimento Java e o aprimoramento contínuo de habilidades técnicas.
